@@ -31,3 +31,24 @@
   background: $purple;
   color: white;
 }
+
+.bg-light-grey {
+  background-color: #ECF0F1;
+  padding:100px;
+}
+
+.home-header {
+  background-image: $home-header-image;
+  padding: 100px;
+  h1 {
+    color: white;
+  }
+  p {
+    color: white;
+    font-size: 20px;
+  }
+}
+
+.collect-email {
+  padding: 100px;
+}

@@ -5,22 +5,10 @@
  * already a Bootstrap SCSS variable that does the same job
  * ------------------------------------- */
 
- .below-navbar {
-  margin-top: 50px;
- }
-
-p {
-    color: $darker-blue;
+.thick {
+  font-weight: 900;
 }
 
-h1,
-h2 {
-      color: $darker-blue;
-}
-
-a {
-    color: $blue;
-  &:hover {
-    color: $dark-blue;
-  }
+.shadowed {
+    text-shadow: 0px 0px 15px black ;
 }
