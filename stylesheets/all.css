@@ -2,7 +2,7 @@
 /* -------------------------------------
  * Fonts
  * ------------------------------------- */
-@import url("http://fonts.googleapis.com/css?family=Playfair+Display:400,700,700italic|Open+Sans:100,300");
+@import url("://fonts.googleapis.com/css?family=Playfair+Display:400,700,700italic|Open+Sans:100,300");
 /* -------------------------------------
  * Colors
  * ------------------------------------- */
@@ -8910,12 +8910,12 @@ button.close {
 
 /* line 13, /Users/ameliebeurrier/code/amelie-beurrier/side-projects/Produkt-boiler/source/stylesheets/layout/_base.css.scss */
 p {
-  color: #2C3E50; }
+  color: #22313F; }
 
 /* line 17, /Users/ameliebeurrier/code/amelie-beurrier/side-projects/Produkt-boiler/source/stylesheets/layout/_base.css.scss */
 h1,
 h2 {
-  color: #2C3E50; }
+  color: #22313F; }
 
 /* line 22, /Users/ameliebeurrier/code/amelie-beurrier/side-projects/Produkt-boiler/source/stylesheets/layout/_base.css.scss */
 a {
@@ -8927,7 +8927,7 @@ a {
 /* line 29, /Users/ameliebeurrier/code/amelie-beurrier/side-projects/Produkt-boiler/source/stylesheets/layout/_base.css.scss */
 .icon {
   padding: 20px;
-  color: #2C3E50; }
+  color: #22313F; }
   /* line 32, /Users/ameliebeurrier/code/amelie-beurrier/side-projects/Produkt-boiler/source/stylesheets/layout/_base.css.scss */
   .icon:hover {
     padding: 20px;
