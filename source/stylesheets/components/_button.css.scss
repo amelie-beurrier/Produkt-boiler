@@ -1,0 +1,25 @@
+
+
+.btn-default {
+  border: none;
+  border-radius: $radius-default;
+  margin: 10px;
+  background-color: $blue;
+  color: white;
+  &:hover {
+  background-color: $dark-blue;
+  color: white;
+  }
+}
+
+.btn-green {
+  border: none;
+  border-radius: $radius-default;
+  margin: 5px;
+  background-color: $turquoise;
+  color: white;
+  &:hover {
+  background-color: $green-sea;
+  color: white;
+  }
+}

@@ -24,3 +24,12 @@ a {
     color: $dark-blue;
   }
 }
+
+.icon {
+  padding: 20px;
+  color: $darker-blue;
+  &:hover {
+    padding: 20px;
+    color: $blue;
+  }
+}
